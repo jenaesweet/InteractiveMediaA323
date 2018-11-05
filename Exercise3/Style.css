@@ -1,0 +1,86 @@
+body{
+	margin: 0 auto;
+	width: 600px;
+	display: block;
+
+}
+
+
+
+.instagramlogin{
+	width: 350px;
+	height: 570px;
+	background: whitesmoke; 
+	border: 1px solid;
+	margin-left: 220px;
+	margin-top: 250px;
+	overflow:hidden;
+	
+}
+
+
+
+.account{
+	 width: 350px;
+     height: 60px;
+     background: whitesmoke;
+     border: 1px solid;
+     margin-left: 220px;
+     margin-top: 15px;
+     
+}
+
+.dots{
+	margin-left:388px;
+	overflow:hidden;
+	 
+}
+
+
+
+/* first block*/
+.app-store {
+	float:left;
+	width: 130px;
+      height: 40px;
+      background: black;
+      border: 1px solid;
+      margin-left: 240px;
+      margin-right: 40px;
+      margin-top: 15px;
+      display: inline-block;
+      border-radius: 3px;
+      overflow:hidden;
+
+}
+/* second block*/
+.googleplay{
+	float:left;
+	width: 130px;
+      height: 40px;
+      background: black;
+      border: 1px solid;
+      margin-left: 1px;
+      margin-top: 15px;
+	display:inline-block;
+	 border-radius: 3px;
+	 overflow:hidden;
+}
+
+.phonepictures{
+	width: 350px;
+	height:570px;
+	background: black;
+	border: 1px solid;
+	margin-right: 500px;
+	float: left;
+	
+}
+
+
+.moredots{
+	margin-left: 165px;
+	float:right;
+	bottom:0%;
+	position: fixed;
+}

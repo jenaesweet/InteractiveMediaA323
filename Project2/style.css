@@ -1,0 +1,77 @@
+body {
+		background-color: #FEFEFE; 
+}
+
+.everything{
+		padding: 30px;
+		border: 2px solid;
+		margin: 600px;
+	}
+
+.column{
+		column-count: 3;
+		padding: 10px;
+		margin: 30px;
+		display: contents;
+		border: 2px solid;
+		background-color: #ccc;
+		width: 200px;
+	}
+
+	.tomove{
+		padding: 30px;
+		border: 2px solid;
+		margin: 500px;
+	}
+
+	.where {
+		border: 2px solid;
+		padding: 30px;
+		margin: 500px;
+	}
+
+	.idont{
+		padding: 30px;
+		border: 2px solid;
+		margin: 500px;
+	  }
+
+	 .myfeet{
+	 	padding: 50px;
+		border: 2px solid;
+		margin: 500px;
+	 }
+
+	 .kicking {
+	 	padding: 50px;
+	 	border: 2px solid;
+	 	margin:500px;
+	 }
+
+	 .dust{
+	 	padding: 50px;
+	 	border: 2px solid;
+	 	margin:500px;
+	 }
+
+
+
+	 .begins{
+	 	padding: 50px;
+	 	border: 2px solid;
+	 	margin: 500px;
+	 }
+
+	 .light {
+	 	padding: 50px;
+	 	border: 2px solid;
+	 	margin: 600px;
+	 }
+
+
+	 .any{ 
+
+	 	padding: 50px;
+	 	border: 2px solid;
+	 	margin: 500px;
+	  }
