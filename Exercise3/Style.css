@@ -14,7 +14,7 @@ body{
 	border: 1px solid;
 	margin-left: 220px;
 	margin-top: 250px;
-	overflow:hidden;
+	
 	
 }
 
@@ -32,7 +32,7 @@ body{
 
 .dots{
 	margin-left:388px;
-	overflow:hidden;
+	
 	 
 }
 
@@ -50,7 +50,7 @@ body{
       margin-top: 15px;
       display: inline-block;
       border-radius: 3px;
-      overflow:hidden;
+     
 
 }
 /* second block*/
@@ -64,7 +64,7 @@ body{
       margin-top: 15px;
 	display:inline-block;
 	 border-radius: 3px;
-	 overflow:hidden;
+	 
 }
 
 .phonepictures{
