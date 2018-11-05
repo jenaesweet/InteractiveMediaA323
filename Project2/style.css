@@ -4,12 +4,11 @@ body {
 
 .everything{
 		padding: 30px;
-		border: 2px solid;
+		border: 50px solid;
 		margin: 600px;
 	}
 
 .column{
-		column-count: 3;
 		padding: 10px;
 		margin: 30px;
 		display: contents;
@@ -20,37 +19,37 @@ body {
 
 	.tomove{
 		padding: 30px;
-		border: 2px solid;
+		border: 60px solid;
 		margin: 500px;
 	}
 
 	.where {
-		border: 2px solid;
-		padding: 30px;
+		border: 65px solid;
+		padding: 70px;
 		margin: 500px;
 	}
 
 	.idont{
 		padding: 30px;
-		border: 2px solid;
+		border: 80px solid;
 		margin: 500px;
 	  }
 
 	 .myfeet{
 	 	padding: 50px;
-		border: 2px solid;
+		border: 90px solid;
 		margin: 500px;
 	 }
 
 	 .kicking {
 	 	padding: 50px;
-	 	border: 2px solid;
+	 	border: 100px solid;
 	 	margin:500px;
 	 }
 
 	 .dust{
 	 	padding: 50px;
-	 	border: 2px solid;
+	 	border: 110px solid;
 	 	margin:500px;
 	 }
 
@@ -58,20 +57,20 @@ body {
 
 	 .begins{
 	 	padding: 50px;
-	 	border: 2px solid;
+	 	border: 120px solid;
 	 	margin: 500px;
 	 }
 
 	 .light {
 	 	padding: 50px;
-	 	border: 2px solid;
+	 	border: 130px solid;
 	 	margin: 600px;
 	 }
 
 
 	 .any{ 
 
-	 	padding: 50px;
-	 	border: 2px solid;
+	 	padding: 40px;
+	 	border: 140px solid;
 	 	margin: 500px;
 	  }

@@ -1,0 +1,103 @@
+body {
+		background-color: black; 
+
+		
+}
+
+.slow{
+	color:white;
+	border-top:2px solid;
+	outline-offset: 5px;
+	float: left;
+}
+
+.time{
+	color:white;
+	border-bottom: 2px solid;
+	float: right;
+}
+
+.place{
+	color:white;
+	border-top: 2px solid;
+	float: left;
+}
+
+.dont{
+color:white;
+	border-bottom: 2px solid;
+	float: right;
+}
+
+.stay{
+color:white;
+	border-top: 2px solid;
+	float: left;
+}
+
+.where{
+color:white;
+	border-bottom: 2px solid;
+	float: right;
+}
+
+.drag{
+color:white;
+	border-top: 2px solid;
+	float: left;
+}
+
+.ground{
+color:white;
+	border-bottom: 2px solid;
+	float: right;
+}
+
+.kicking{
+color:white;
+	border-top: 2px solid;
+	float: left;
+}
+
+.dust{
+color:white;
+	border-bottom: 2px solid;
+	float: right;
+}
+
+.chokes{
+color:white;
+	border-top: 2px solid;
+	float: left;
+}
+
+.breath{
+color:white;
+	border-bottom: 2px solid;
+	float: right;
+}
+
+.eyes{
+color:white;
+	border-top: 2px solid;
+	float: left;
+}
+
+.mud{
+color:white;
+	border-bottom: 2px solid;
+	float: right;
+}
+
+.light{
+color:white;
+	border-top: 2px solid;
+	float: left;
+}
+
+.any{
+color:white;
+	border-bottom: 2px solid;
+	float: right;
+}
+
