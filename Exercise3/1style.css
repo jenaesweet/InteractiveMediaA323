@@ -1,0 +1,27 @@
+body{
+	margin: 0 auto;
+	width: 600px;
+	display: block;
+
+}
+
+.instagramlogin{ 
+	width: 350px;
+	height: 570px;
+	background: whitesmoke; 
+	border: 1px solid;
+	position:relative;
+
+ }
+
+ .dots{
+ 	position: relative;
+ 	font-size:100px;
+ }
+
+ 	#moredots{
+ 		margin-left: 165px;
+	float:right;
+	bottom:0%;
+	position: fixed;
+ 	}
