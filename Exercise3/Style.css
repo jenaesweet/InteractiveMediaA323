@@ -1,7 +1,7 @@
 body{
 	margin: 0 auto;
 	width: 600px;
-	display: block;
+	display:block;
 
 }
 
@@ -14,8 +14,15 @@ body{
 	border: 1px solid;
 	margin-left: 220px;
 	margin-top: 250px;
-	
-	
+	display: inline-block;
+}
+
+
+
+
+.all{
+	width: 50px;
+
 }
 
 
@@ -27,13 +34,13 @@ body{
      border: 1px solid;
      margin-left: 220px;
      margin-top: 15px;
-     
+     display: inline-block;
 }
 
 .dots{
 	margin-left:388px;
-	
-	 
+	display: inline-block;
+
 }
 
 
@@ -67,20 +74,14 @@ body{
 	 
 }
 
-.phonepictures{
-	width: 350px;
-	height:570px;
-	background: black;
-	border: 1px solid;
-	margin-right: 500px;
-	float: left;
-	
-}
 
 
 .moredots{
-	margin-left: 165px;
+	
+	margin-left: 170px;
+    margin-top: 30px;
 	float:right;
 	bottom:0%;
-	position: fixed;
+	position: relative;
+	display: inline-block;
 }

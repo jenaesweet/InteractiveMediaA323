@@ -7,11 +7,21 @@ body {
 .slow{
 	font-family: sans-serif;
 	font-weight:100;
+	font-size: xx-small;
+	text-align: center;
+	margin-bottom:500px;
 }
 
 .time{
 font-family: sans-serif;
 	font-weight:99;
+	
+
+}
+
+.required{
+	font-family: sans-serif;
+		font-weight: 98;
 }
 
 .place{
