@@ -1,0 +1,81 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+.canvas {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: white;
+	position: relative;
+}
+
+.glass{
+  border-bottom: 170px solid lightblue;
+      border-left: 25px solid transparent;
+      border-right: 25px solid transparent;
+      height: 0;
+      width: 230px;
+      margin-top: 100px;
+      margin-left: 100px;
+      transform: rotate(180deg);
+      position: relative; left: 220px; top: 200px;
+}
+
+.deco1{
+	 width: 170px;
+      height: 20px;
+      position: relative;
+      top: 105px; left: 330px;
+      background: lightpink;
+      transform: rotate(90deg);
+}
+
+.deco2{
+	width: 170px;
+      height: 20px;
+      position: relative;
+      top: 85px; left: 360px;
+      background: lightpink;
+      transform: rotate(90deg);
+}
+
+.deco3{
+		width: 170px;
+      height: 20px;
+      position: relative;
+      top: 65px; left: 390px;
+      background: lightpink;
+      transform: rotate(90deg);
+}
+
+.deco4{
+	width: 170px;
+      height: 20px;
+      position: relative;
+      top: 45px; left: 420px;
+      background: lightpink;
+      transform: rotate(90deg);
+}
+
+.deco5{
+	width: 170px;
+      height: 20px;
+      position: relative;
+      top: 25px; right: -300px;
+      background: lightpink;
+      transform: rotate(90deg);
+}
+
+.deco6{
+	width: 170px;
+      height: 20px;
+      position: relative;
+      top: 5px; right: -270px;
+      background: lightpink;
+      transform: rotate(90deg);
+}
