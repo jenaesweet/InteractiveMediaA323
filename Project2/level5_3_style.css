@@ -1,0 +1,20 @@
+body{
+	background-color: rgb(0, 55, 81);
+}
+
+
+
+.poem{
+    animation:blinkingText 5.0s infinite;
+    font-family: impact;
+    font-size: 50px;
+    font-weight: lighter;
+
+}
+@keyframes blinkingText{
+    0%{     color: gray;    }
+    49%{    color: transparent; }
+    50%{    color: transparent; }
+    99%{    color:transparent;  }
+    100%{   color: gray;    }
+}

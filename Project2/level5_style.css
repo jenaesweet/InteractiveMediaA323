@@ -1,0 +1,35 @@
+body {
+  background: #2d2d2d;
+}
+
+.typewriter h1{
+	font-family: monospace;
+	letter-spacing: .15%;
+	margin: 0 auto;
+	overflow: auto;
+	white-space: nowrap;
+}
+
+.typewriter h1{
+	border-right: .15% solid white;
+
+}
+
+@keyframes typing{
+	from {width:0}
+	to {width: 100%}
+}
+
+@keyframes blinking-cursor{
+	from, to {border-color: transparent;}
+	50% {border-color: white}
+
+}
+
+
+.typewriter h1 {
+  animation: 
+    typing 15s steps(40, end),
+    blinking-cursor .5s step-end infinite;
+}
+

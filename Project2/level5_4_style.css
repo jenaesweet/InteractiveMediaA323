@@ -1,0 +1,20 @@
+body{
+	background-color: gray;
+}
+
+h1 {
+  font: lighter 300%/150% "Lucida Grande";
+  position: relative;
+  color: rgb(235, 244, 249);
+
+}
+h1 div {
+  background: url(https://media.giphy.com/media/sfLg50pEqWdA4/giphy.gif) repeat-x;
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 5500px;
+}
+span{
+	 opacity: 0.1;
+}
